@@ -1,0 +1,1001 @@
+order_id,order_date,category,sub_category,region,sales,discount,profit,quantity
+1,2021-01-26,Office Supplies,Pens,East,1496.02,0.1,224.8,2
+2,2022-08-28,Office Supplies,Pens,East,872.75,0,111.81,4
+3,2022-07-29,Office Supplies,Paper,East,437.73,0.3,50.9,10
+4,2021-06-13,Technology,Phones,East,1411.37,0.2,207.03,4
+5,2021-04-05,Technology,Phones,East,790.86,0.2,224.13,10
+6,2022-04-16,Technology,Phones,East,1095.64,0.3,94.83,5
+7,2022-08-15,Office Supplies,Pens,North,424.96,0,48.34,4
+8,2021-08-27,Technology,Phones,East,1739.64,0.3,223.33,6
+9,2021-12-30,Furniture,Tables,North,458.54,0.2,113.92,2
+10,2022-07-01,Office Supplies,Paper,West,1471.8,0.1,316.16,5
+11,2022-12-03,Office Supplies,Pens,West,682.35,0,115.12,1
+12,2021-10-02,Technology,Phones,South,179.07,0.2,23.46,8
+13,2021-05-27,Technology,Laptops,South,566.52,0.1,164.94,9
+14,2022-08-21,Technology,Phones,South,828.83,0.1,297.78,3
+15,2021-04-04,Office Supplies,Paper,South,1523.78,0,222.25,3
+16,2022-09-03,Office Supplies,Pens,South,173.88,0.3,33.93,8
+17,2022-07-21,Office Supplies,Paper,North,1728.52,0,525.62,2
+18,2022-10-19,Office Supplies,Pens,North,713.34,0.2,131.5,8
+19,2022-05-28,Furniture,Chairs,North,1535.83,0,554.67,5
+20,2021-06-06,Office Supplies,Pens,West,779.13,0.1,183.59,9
+21,2022-05-16,Furniture,Chairs,North,87.98,0.2,25.59,5
+22,2021-09-04,Furniture,Tables,East,1762.12,0,221.49,8
+23,2021-05-12,Furniture,Chairs,West,1336.51,0.1,215.93,10
+24,2022-07-07,Technology,Laptops,West,1522.77,0.1,430.18,7
+25,2022-03-25,Office Supplies,Pens,North,1804.25,0.3,172.15,4
+26,2021-01-22,Furniture,Chairs,North,1197.2,0.1,297.96,1
+27,2021-08-23,Furniture,Chairs,East,181.43,0,64.93,2
+28,2021-10-13,Office Supplies,Paper,West,1354.51,0.1,319.11,10
+29,2021-09-06,Office Supplies,Paper,South,1580.01,0.3,173.78,2
+30,2021-12-29,Office Supplies,Pens,South,875.98,0.3,220.23,1
+31,2021-03-04,Office Supplies,Pens,East,835.11,0.2,227.27,2
+32,2021-07-14,Furniture,Tables,West,1095.76,0.1,223.43,5
+33,2021-03-19,Technology,Laptops,West,914.1,0,105.28,9
+34,2021-08-31,Furniture,Chairs,East,374.31,0.3,64.04,7
+35,2022-01-24,Furniture,Chairs,West,54.2,0.3,6.81,8
+36,2022-12-15,Technology,Phones,South,1916.77,0.3,196.48,5
+37,2022-08-17,Furniture,Tables,East,1484.69,0,481.62,1
+38,2022-05-30,Furniture,Chairs,South,1842.8,0.1,194.15,9
+39,2021-03-12,Furniture,Chairs,West,1210.32,0.1,240.88,10
+40,2022-09-27,Furniture,Tables,East,209.87,0.2,63.87,4
+41,2021-09-02,Office Supplies,Pens,North,567.95,0.1,154.12,5
+42,2021-03-16,Technology,Laptops,North,68.17,0,8.32,4
+43,2021-05-16,Office Supplies,Paper,North,1869.86,0,680.22,6
+44,2022-03-25,Technology,Phones,West,1675.8,0.2,380.08,9
+45,2022-11-11,Furniture,Chairs,North,251.99,0.1,40.67,2
+46,2021-10-06,Office Supplies,Pens,West,599.42,0.1,170.09,4
+47,2022-06-02,Office Supplies,Pens,North,1002.64,0,128.03,7
+48,2021-01-04,Technology,Phones,East,700.44,0.1,183.53,5
+49,2022-07-19,Furniture,Tables,South,1426.05,0,190.47,3
+50,2022-01-14,Office Supplies,Paper,East,1185.89,0.1,244.34,1
+51,2021-02-10,Technology,Phones,North,1802.9,0.1,494.28,2
+52,2022-09-28,Technology,Phones,South,1511.48,0.1,488.88,3
+53,2021-07-03,Technology,Laptops,East,1486.3,0.2,397.99,7
+54,2021-10-01,Office Supplies,Pens,West,360.44,0,77.41,1
+55,2021-07-24,Technology,Laptops,West,1642.34,0.3,235.56,4
+56,2022-11-07,Furniture,Tables,East,426.6,0.2,62.65,2
+57,2022-10-19,Technology,Phones,North,1043.34,0.2,318.65,2
+58,2022-08-18,Technology,Phones,West,1926.94,0.2,171.85,10
+59,2021-11-18,Technology,Laptops,North,900.97,0,194.21,10
+60,2021-02-15,Furniture,Tables,North,1432.13,0,366.59,9
+61,2022-01-08,Office Supplies,Pens,West,891.03,0.2,204.54,2
+62,2022-06-04,Office Supplies,Pens,North,653.11,0.3,90.45,5
+63,2021-07-16,Office Supplies,Paper,West,869.87,0.3,184.62,3
+64,2022-02-20,Office Supplies,Paper,North,1118.48,0,213.81,4
+65,2022-04-22,Technology,Laptops,North,911.48,0.1,207.83,3
+66,2021-10-18,Office Supplies,Pens,East,1055.13,0.2,108.06,4
+67,2021-08-19,Office Supplies,Pens,North,1622.8,0.1,156.75,4
+68,2022-04-12,Technology,Laptops,East,858.16,0.1,243.68,7
+69,2021-09-07,Technology,Laptops,South,337.76,0,124.23,2
+70,2021-06-30,Technology,Laptops,West,1618.01,0.3,130.32,4
+71,2021-05-17,Furniture,Chairs,South,1612.76,0.2,496.75,8
+72,2022-07-16,Office Supplies,Paper,South,919.53,0.1,267.39,8
+73,2021-09-11,Technology,Laptops,North,1687.73,0.2,445.22,9
+74,2021-10-09,Technology,Laptops,West,907.75,0.2,123.71,6
+75,2021-05-22,Technology,Phones,East,344.12,0.3,74.24,4
+76,2022-02-22,Furniture,Chairs,South,695.22,0.3,109.37,4
+77,2022-08-22,Technology,Laptops,South,1894.82,0,676.49,10
+78,2021-01-07,Technology,Laptops,South,1888.35,0.2,492.55,7
+79,2022-05-15,Office Supplies,Paper,West,477.87,0.3,82.19,7
+80,2021-06-19,Technology,Phones,South,1688.99,0.1,599.25,9
+81,2022-08-30,Furniture,Chairs,South,1150.56,0,144.03,7
+82,2021-07-06,Furniture,Tables,South,148.06,0.3,20.54,8
+83,2022-01-24,Technology,Phones,North,592.6,0.3,72.88,2
+84,2022-07-07,Technology,Laptops,East,151.57,0.2,20.28,2
+85,2021-02-01,Office Supplies,Pens,East,1901.74,0.1,602.08,10
+86,2021-05-10,Furniture,Tables,West,973.44,0,262.04,4
+87,2022-01-13,Technology,Laptops,North,377.19,0,125.73,3
+88,2022-08-16,Technology,Phones,East,100.07,0.2,21.83,7
+89,2021-03-19,Technology,Laptops,West,1204.59,0.1,141.56,5
+90,2022-08-03,Office Supplies,Pens,East,1576.14,0.2,327.61,6
+91,2021-01-13,Furniture,Chairs,North,1706.67,0.3,157.29,6
+92,2022-12-26,Office Supplies,Pens,South,348.33,0.1,100.36,5
+93,2022-04-22,Office Supplies,Paper,South,899.37,0.2,141.52,4
+94,2022-04-07,Furniture,Chairs,North,525.53,0.3,99.68,7
+95,2022-05-22,Technology,Phones,East,1709.36,0.1,378.86,6
+96,2021-10-14,Technology,Phones,North,1766.62,0.2,376.98,9
+97,2021-09-05,Furniture,Tables,East,1454.15,0.3,271.33,4
+98,2022-10-24,Office Supplies,Pens,South,1438.09,0.3,340.13,2
+99,2022-02-19,Technology,Phones,West,1398.98,0.2,334.85,6
+100,2022-03-12,Technology,Laptops,North,1993.43,0.2,327.79,8
+101,2021-09-15,Technology,Phones,North,499.55,0.1,87.52,9
+102,2021-07-16,Office Supplies,Pens,West,471.95,0.3,60.44,10
+103,2021-04-13,Office Supplies,Paper,North,1673.63,0.2,225.26,3
+104,2022-12-27,Technology,Phones,East,1091.56,0.2,99.25,1
+105,2022-12-16,Office Supplies,Paper,North,1890.97,0.3,173.11,1
+106,2022-04-26,Office Supplies,Paper,North,983.49,0.2,122.2,1
+107,2021-04-27,Technology,Phones,South,1653.13,0.3,286.43,10
+108,2021-06-05,Office Supplies,Pens,East,340.94,0.2,34.25,4
+109,2022-09-13,Furniture,Chairs,South,1212.45,0.1,363.05,7
+110,2021-11-01,Technology,Laptops,South,1727.32,0.3,231.69,10
+111,2021-08-01,Furniture,Chairs,East,1269.75,0.2,302.84,3
+112,2022-07-20,Furniture,Tables,West,196.38,0,43.71,10
+113,2021-02-03,Technology,Laptops,North,501.38,0.2,124.7,8
+114,2021-09-28,Furniture,Chairs,West,1586.26,0.1,324.85,9
+115,2021-09-30,Furniture,Tables,West,1661.93,0,195.93,5
+116,2022-03-26,Office Supplies,Paper,North,292.49,0.2,72.52,5
+117,2022-03-25,Office Supplies,Paper,South,206.86,0,75.88,6
+118,2021-01-27,Office Supplies,Paper,North,228.09,0,91.21,5
+119,2021-06-29,Office Supplies,Paper,East,967.48,0.3,253.84,3
+120,2022-10-13,Office Supplies,Paper,South,1637.78,0,394.71,7
+121,2022-11-18,Technology,Phones,North,253.97,0.1,45.47,8
+122,2022-07-18,Technology,Phones,South,121.56,0,23.63,6
+123,2022-06-11,Furniture,Chairs,South,1658.61,0,493.1,9
+124,2021-02-25,Technology,Laptops,South,415.79,0.2,95.4,8
+125,2021-02-22,Office Supplies,Pens,South,446.94,0.1,152.17,8
+126,2021-05-05,Office Supplies,Pens,South,106.3,0.1,29.94,5
+127,2022-07-20,Office Supplies,Paper,East,845.58,0.1,302.64,2
+128,2022-10-26,Technology,Laptops,East,1672.68,0.3,444.69,5
+129,2022-03-02,Office Supplies,Paper,North,1677.71,0.3,203.31,9
+130,2021-07-15,Furniture,Tables,South,1847.64,0.1,597.32,5
+131,2022-06-04,Technology,Laptops,North,570.99,0,105.55,5
+132,2021-06-02,Office Supplies,Paper,South,920.77,0.3,131.19,9
+133,2022-04-12,Office Supplies,Paper,South,1869.06,0.1,663.16,4
+134,2021-08-28,Office Supplies,Paper,South,1719.23,0.3,136.1,8
+135,2022-01-31,Office Supplies,Pens,South,1977.41,0.1,442.42,1
+136,2021-04-13,Furniture,Tables,North,1754.67,0.3,159.57,8
+137,2022-02-24,Furniture,Chairs,West,1748.32,0.1,192.67,5
+138,2022-10-28,Technology,Phones,South,206.61,0.2,58.79,9
+139,2022-10-04,Technology,Laptops,North,1451.5,0.3,367.52,1
+140,2021-08-29,Office Supplies,Paper,East,1280.76,0.2,409.05,2
+141,2022-10-11,Technology,Laptops,East,1422.59,0,331.61,5
+142,2021-11-29,Furniture,Chairs,East,1602.48,0.2,266.06,7
+143,2022-06-28,Furniture,Tables,West,853.5,0.1,115.99,2
+144,2022-09-27,Office Supplies,Paper,South,1382.11,0.3,361.69,3
+145,2022-10-16,Furniture,Tables,South,545.26,0.2,130.89,8
+146,2021-03-17,Technology,Phones,West,911.37,0.2,288.94,5
+147,2022-12-08,Office Supplies,Pens,South,537.69,0.2,68.72,7
+148,2021-08-31,Technology,Laptops,East,793.66,0.2,172.98,5
+149,2021-10-09,Furniture,Chairs,South,65.79,0,24.55,8
+150,2022-09-14,Technology,Phones,West,1613.77,0.1,422.63,10
+151,2022-10-06,Technology,Phones,West,239.47,0,46.14,8
+152,2021-05-15,Furniture,Chairs,North,225.76,0.2,35.76,7
+153,2021-05-16,Furniture,Tables,West,1583.7,0.2,328.47,5
+154,2022-05-09,Furniture,Tables,North,1936.4,0.2,501.87,6
+155,2021-03-19,Furniture,Chairs,South,324.48,0.1,104.56,7
+156,2021-04-03,Office Supplies,Paper,North,1591.83,0,285.47,2
+157,2022-11-20,Technology,Laptops,North,1510.57,0.2,332.77,6
+158,2022-04-28,Furniture,Chairs,West,98.8,0.2,29.61,4
+159,2022-10-13,Office Supplies,Pens,East,1656.52,0.2,390.64,2
+160,2021-02-08,Furniture,Tables,East,643.51,0.3,60.74,4
+161,2022-02-02,Office Supplies,Paper,West,934.61,0.3,180.7,3
+162,2022-05-17,Technology,Laptops,East,1250.52,0.2,109.86,6
+163,2022-04-01,Furniture,Tables,South,1903.58,0.2,197.68,6
+164,2021-03-04,Office Supplies,Paper,North,826.37,0.1,290.4,8
+165,2022-10-20,Furniture,Chairs,West,1297.01,0,149.38,6
+166,2022-08-02,Furniture,Tables,West,450.15,0.1,111.78,4
+167,2022-09-03,Technology,Phones,West,55.53,0.1,19.8,9
+168,2021-04-23,Technology,Phones,West,1339.06,0,186.85,6
+169,2021-01-17,Furniture,Tables,North,389.78,0,53.8,7
+170,2021-03-07,Office Supplies,Paper,East,978.68,0.2,198.85,2
+171,2022-09-22,Technology,Laptops,West,134.56,0.2,25.56,1
+172,2022-02-16,Furniture,Chairs,South,881.23,0,217.73,8
+173,2021-11-26,Furniture,Chairs,East,1236.18,0,170.42,10
+174,2022-01-26,Office Supplies,Pens,North,1989.52,0.2,375.8,10
+175,2022-12-20,Technology,Laptops,East,273.11,0.1,56.29,4
+176,2022-04-10,Technology,Laptops,North,827.52,0,160.34,6
+177,2022-01-19,Office Supplies,Pens,North,1909.51,0.3,160.59,2
+178,2021-04-09,Furniture,Chairs,South,1501.95,0.2,412.77,9
+179,2022-11-18,Furniture,Chairs,North,288.35,0.2,83.53,7
+180,2021-10-22,Office Supplies,Pens,East,1220.8,0.2,128.02,9
+181,2022-11-04,Furniture,Tables,West,990.27,0,203.04,9
+182,2021-10-13,Technology,Phones,East,1169.5,0.3,289.43,10
+183,2022-09-16,Office Supplies,Paper,East,1861.71,0.2,161.87,5
+184,2021-12-14,Office Supplies,Pens,North,734.5,0.1,238.61,10
+185,2021-03-13,Office Supplies,Pens,South,326.66,0,41.66,9
+186,2022-03-06,Furniture,Tables,South,934.61,0.1,177.5,6
+187,2021-02-23,Office Supplies,Paper,East,353.38,0,106.79,5
+188,2022-05-13,Technology,Laptops,South,1233.8,0.3,157.14,9
+189,2022-03-17,Furniture,Chairs,North,266.24,0.3,48.1,5
+190,2022-02-09,Furniture,Chairs,West,1969.67,0,201.51,5
+191,2021-09-19,Furniture,Tables,West,614.42,0,62.87,7
+192,2022-01-25,Furniture,Tables,West,1088.54,0.1,245.0,6
+193,2021-02-13,Furniture,Chairs,South,900.63,0.3,237.27,6
+194,2022-08-11,Office Supplies,Paper,South,838.62,0.3,109.69,7
+195,2021-06-25,Furniture,Chairs,North,1612.58,0.3,394.64,6
+196,2021-04-19,Furniture,Chairs,South,524.47,0.3,94.42,7
+197,2021-08-15,Technology,Phones,North,699.48,0.1,77.38,2
+198,2021-12-24,Office Supplies,Paper,West,734.64,0.1,112.98,3
+199,2021-06-27,Technology,Phones,West,1224.68,0,187.55,8
+200,2022-11-29,Technology,Laptops,South,1852.1,0.2,532.33,6
+201,2021-03-11,Furniture,Tables,South,964.4,0.2,261.47,10
+202,2022-06-04,Furniture,Chairs,North,194.67,0.3,32.1,1
+203,2021-03-20,Technology,Phones,North,1307.1,0,371.87,9
+204,2022-08-18,Technology,Laptops,South,1130.92,0,265.68,10
+205,2021-11-26,Office Supplies,Pens,West,1229.76,0.1,428.68,8
+206,2021-03-28,Furniture,Chairs,North,1033.87,0.1,103.97,8
+207,2022-01-08,Technology,Laptops,West,777.06,0.2,134.42,6
+208,2022-10-09,Office Supplies,Pens,East,1312.25,0,261.02,9
+209,2021-10-18,Office Supplies,Pens,South,541.39,0.1,97.45,10
+210,2021-12-25,Office Supplies,Pens,West,654.95,0.3,63.58,2
+211,2022-10-21,Technology,Phones,South,1593.74,0.1,431.79,9
+212,2022-06-05,Furniture,Chairs,South,755.56,0.2,116.45,4
+213,2021-07-16,Technology,Phones,South,491.76,0.1,64.83,5
+214,2022-11-09,Furniture,Chairs,East,706.69,0.1,177.56,3
+215,2022-12-11,Furniture,Tables,West,1553.64,0.1,442.35,1
+216,2022-11-24,Technology,Laptops,North,1453.19,0.3,288.06,8
+217,2021-11-13,Furniture,Tables,West,1932.91,0.3,502.24,4
+218,2022-04-18,Technology,Phones,South,1550.41,0.3,272.27,7
+219,2022-09-12,Furniture,Tables,West,319.88,0.2,29.6,8
+220,2022-12-30,Technology,Phones,East,1699.49,0,315.29,3
+221,2022-06-10,Technology,Phones,South,337.33,0.3,30.11,4
+222,2021-01-28,Technology,Laptops,North,859.05,0.3,150.7,4
+223,2022-01-19,Technology,Laptops,East,487.85,0.2,148.01,6
+224,2021-02-09,Furniture,Tables,West,609.41,0.3,131.74,3
+225,2022-04-05,Office Supplies,Pens,South,1249.93,0,132.12,4
+226,2021-04-24,Furniture,Tables,South,1563.54,0.1,267.85,1
+227,2022-10-17,Furniture,Tables,South,1598.1,0.3,132.95,8
+228,2022-10-10,Office Supplies,Paper,East,1054.98,0.1,299.62,5
+229,2022-09-22,Technology,Laptops,East,737.99,0.3,80.69,2
+230,2021-03-11,Office Supplies,Paper,North,1909.14,0,414.54,8
+231,2022-01-18,Furniture,Chairs,South,544.62,0,112.81,2
+232,2022-11-04,Technology,Phones,West,1275.1,0.2,142.83,6
+233,2022-10-21,Office Supplies,Paper,North,391.42,0.3,108.02,8
+234,2021-05-19,Office Supplies,Pens,West,173.05,0.3,13.46,4
+235,2021-02-12,Furniture,Chairs,West,665.41,0.2,135.54,9
+236,2021-02-07,Technology,Laptops,North,1518.92,0.1,254.04,1
+237,2021-10-07,Office Supplies,Pens,North,292.73,0.2,54.12,7
+238,2022-01-31,Office Supplies,Pens,South,711.12,0.1,159.27,8
+239,2021-03-26,Technology,Phones,North,1467.81,0,336.4,3
+240,2021-11-25,Office Supplies,Paper,North,250.07,0.2,59.67,5
+241,2021-06-20,Technology,Laptops,South,1395.04,0.2,261.31,6
+242,2021-10-09,Office Supplies,Paper,South,1296.97,0,158.89,7
+243,2021-02-01,Technology,Phones,West,328.42,0.3,25.39,2
+244,2022-01-06,Furniture,Tables,North,796.57,0,224.26,8
+245,2022-03-31,Technology,Phones,North,1538.01,0.1,358.29,7
+246,2021-09-13,Technology,Phones,North,1923.01,0,616.71,8
+247,2022-07-30,Office Supplies,Paper,South,279.63,0.2,69.62,4
+248,2022-12-12,Office Supplies,Paper,North,1837.13,0.3,205.83,3
+249,2021-06-26,Furniture,Chairs,South,1802.42,0.3,503.64,6
+250,2022-12-28,Office Supplies,Pens,North,176.63,0.2,51.92,3
+251,2022-01-06,Office Supplies,Pens,West,1042.07,0,412.18,3
+252,2021-01-27,Furniture,Tables,South,753.75,0.2,144.85,9
+253,2021-03-09,Furniture,Tables,East,653.12,0.3,117.82,7
+254,2021-05-09,Office Supplies,Paper,East,1946.14,0,457.33,9
+255,2022-07-19,Technology,Phones,West,1297.6,0.1,385.78,3
+256,2021-05-08,Technology,Laptops,East,1060.3,0.2,126.72,6
+257,2021-12-21,Office Supplies,Pens,West,1897.59,0.2,537.06,5
+258,2021-05-09,Furniture,Tables,North,1268.79,0,318.18,3
+259,2021-06-25,Office Supplies,Paper,West,1334.53,0.2,376.61,10
+260,2021-03-25,Furniture,Chairs,East,138.65,0.2,32.76,10
+261,2022-05-25,Technology,Laptops,East,1783.54,0.2,417.45,5
+262,2022-12-03,Technology,Laptops,West,841.88,0.3,71.83,1
+263,2022-03-02,Furniture,Tables,South,994.29,0.1,180.81,3
+264,2021-12-20,Technology,Phones,North,1951.98,0.1,576.57,9
+265,2021-11-23,Office Supplies,Paper,East,521.39,0,93.98,4
+266,2021-02-21,Furniture,Tables,East,615.91,0.3,154.89,7
+267,2021-12-02,Furniture,Tables,West,1870.82,0.2,234.9,3
+268,2022-05-26,Technology,Laptops,South,1764.2,0.3,132.08,7
+269,2021-09-04,Office Supplies,Paper,South,469.53,0.2,43.05,5
+270,2021-10-20,Technology,Laptops,South,1096.55,0,251.42,5
+271,2022-02-17,Office Supplies,Pens,North,763.58,0.3,61.65,9
+272,2022-07-21,Furniture,Tables,North,612.77,0.3,107.78,9
+273,2021-05-12,Technology,Phones,East,1951.41,0.3,289.53,6
+274,2021-05-28,Office Supplies,Paper,North,438.16,0.3,76.69,1
+275,2023-01-01,Furniture,Chairs,West,699.43,0.3,125.24,3
+276,2021-12-02,Office Supplies,Paper,West,1866.17,0.2,222.08,10
+277,2022-08-31,Office Supplies,Pens,North,705.93,0.3,154.48,5
+278,2022-01-13,Technology,Laptops,East,695.92,0,274.17,10
+279,2022-09-04,Technology,Phones,East,975.45,0.1,277.79,10
+280,2022-06-21,Technology,Laptops,West,1276.6,0.3,128.98,4
+281,2021-07-15,Furniture,Chairs,East,86.93,0.2,15.69,7
+282,2022-02-25,Office Supplies,Pens,West,1028.55,0.3,260.52,1
+283,2022-06-16,Office Supplies,Pens,West,454.32,0.2,145.18,8
+284,2021-11-18,Office Supplies,Paper,South,1915.54,0.3,501.0,6
+285,2022-11-24,Office Supplies,Paper,North,1555.38,0.2,352.17,4
+286,2022-07-26,Furniture,Tables,North,632.07,0.2,167.55,4
+287,2021-11-21,Office Supplies,Pens,South,985.62,0.2,146.93,10
+288,2022-02-09,Office Supplies,Pens,South,1645.84,0.1,277.2,5
+289,2021-12-21,Office Supplies,Pens,East,1851.82,0.2,480.29,4
+290,2022-07-30,Furniture,Tables,North,1407.53,0.1,168.19,10
+291,2021-02-21,Furniture,Tables,West,1356.18,0.1,355.65,1
+292,2021-12-05,Furniture,Chairs,South,1448.85,0,440.97,3
+293,2022-02-21,Furniture,Chairs,West,1323.14,0.3,225.28,4
+294,2021-10-20,Technology,Phones,North,1309.5,0,387.21,4
+295,2021-06-29,Office Supplies,Paper,East,864.88,0.1,295.93,1
+296,2021-07-10,Technology,Laptops,South,1876.39,0.2,544.94,1
+297,2021-12-10,Technology,Phones,East,604.9,0.3,155.3,3
+298,2021-10-07,Office Supplies,Paper,South,425.98,0,84.86,8
+299,2021-07-10,Office Supplies,Pens,North,77.46,0.2,20.9,10
+300,2021-06-29,Office Supplies,Pens,West,1241.36,0.3,302.48,9
+301,2022-02-15,Technology,Phones,East,1355.05,0.1,481.12,8
+302,2021-01-07,Technology,Phones,West,558.53,0.1,117.64,5
+303,2022-08-20,Technology,Phones,North,1459.62,0,260.49,6
+304,2021-03-05,Office Supplies,Pens,West,1352.18,0.3,181.77,7
+305,2022-12-08,Office Supplies,Pens,North,278.96,0.2,46.92,4
+306,2022-05-05,Furniture,Tables,West,348.71,0.2,62.7,9
+307,2021-09-11,Technology,Laptops,West,1376.67,0,354.7,9
+308,2021-03-21,Office Supplies,Pens,North,1838.63,0,217.93,9
+309,2022-08-10,Office Supplies,Paper,West,1096.49,0.1,195.82,9
+310,2022-11-28,Technology,Laptops,East,450.53,0.3,40.14,9
+311,2022-04-10,Technology,Laptops,East,307.29,0.3,50.99,1
+312,2022-11-20,Office Supplies,Paper,South,1623.48,0,355.19,1
+313,2022-08-16,Office Supplies,Pens,West,192.41,0.3,27.39,2
+314,2021-03-12,Office Supplies,Paper,East,1972.97,0.3,151.26,7
+315,2022-10-19,Furniture,Tables,West,1957.75,0.3,290.99,7
+316,2022-01-20,Technology,Laptops,South,206.49,0.1,55.02,6
+317,2022-07-05,Furniture,Chairs,West,816.46,0.1,233.93,4
+318,2021-11-02,Furniture,Chairs,East,952.86,0.3,173.14,4
+319,2021-12-21,Furniture,Tables,South,352.49,0.1,120.94,2
+320,2022-09-22,Furniture,Chairs,South,1543.8,0,265.84,2
+321,2022-04-03,Furniture,Chairs,East,1215.68,0,210.82,1
+322,2021-08-28,Technology,Laptops,South,1102.53,0,156.6,5
+323,2022-08-15,Furniture,Tables,North,1215.94,0.2,166.41,3
+324,2022-02-28,Office Supplies,Pens,West,635.98,0,169.82,10
+325,2022-10-04,Office Supplies,Pens,West,1373.56,0.3,109.67,6
+326,2022-06-22,Office Supplies,Pens,South,671.53,0.3,104.58,5
+327,2022-07-05,Technology,Laptops,West,973.36,0.1,166.64,3
+328,2022-07-30,Technology,Laptops,East,854.72,0.3,159.86,3
+329,2021-09-19,Technology,Laptops,West,446.51,0,168.19,6
+330,2021-02-22,Furniture,Chairs,West,573.5,0,207.66,4
+331,2022-05-06,Office Supplies,Paper,West,457.33,0.2,69.86,1
+332,2021-05-01,Furniture,Tables,West,1506.41,0.3,394.73,10
+333,2022-02-11,Office Supplies,Pens,West,1834.5,0.2,488.2,7
+334,2021-11-12,Technology,Laptops,North,560.05,0.3,94.01,8
+335,2022-01-15,Technology,Phones,West,660.2,0,177.43,4
+336,2021-01-17,Office Supplies,Pens,West,558.51,0.3,73.72,4
+337,2022-01-24,Technology,Phones,West,1161.09,0.1,261.03,6
+338,2022-10-20,Technology,Phones,South,1492.21,0.3,157.17,6
+339,2022-07-14,Furniture,Tables,West,1002.22,0,257.75,2
+340,2021-01-07,Office Supplies,Pens,East,854.16,0.1,92.55,3
+341,2022-06-02,Furniture,Chairs,West,939.22,0,268.01,10
+342,2021-01-17,Technology,Laptops,South,62.89,0.3,4.56,9
+343,2022-07-03,Office Supplies,Pens,North,1956.08,0,490.32,7
+344,2021-04-09,Furniture,Tables,East,1072.55,0.1,152.11,9
+345,2021-10-01,Technology,Phones,North,1600.13,0,339.09,7
+346,2022-12-15,Technology,Laptops,West,490.42,0,145.22,1
+347,2022-01-24,Furniture,Chairs,South,785.48,0.3,64.24,1
+348,2021-03-26,Office Supplies,Pens,West,1024.72,0.3,210.51,6
+349,2022-06-25,Office Supplies,Paper,East,1842.35,0.1,270.98,10
+350,2021-02-17,Technology,Laptops,North,1852.11,0.2,547.92,10
+351,2021-07-03,Office Supplies,Pens,East,1861.09,0.2,155.88,4
+352,2022-12-31,Office Supplies,Paper,West,1650.76,0,313.29,10
+353,2022-11-25,Furniture,Tables,South,1798.23,0.2,309.52,3
+354,2022-05-28,Office Supplies,Pens,East,1503.64,0.2,139.67,7
+355,2021-12-15,Furniture,Tables,East,1230.08,0.3,336.39,6
+356,2022-04-07,Furniture,Chairs,North,1006.68,0.2,214.15,7
+357,2022-11-28,Technology,Laptops,West,1192.46,0.3,104.93,10
+358,2023-01-01,Technology,Phones,West,193.34,0.2,22.62,3
+359,2021-11-21,Office Supplies,Pens,South,753.37,0,76.51,5
+360,2021-10-04,Technology,Laptops,North,249.35,0,38.95,8
+361,2021-04-16,Office Supplies,Paper,South,101.21,0.2,21.56,10
+362,2022-01-30,Office Supplies,Paper,North,74.06,0.3,11.22,2
+363,2022-08-09,Office Supplies,Pens,West,1066.15,0.3,112.58,5
+364,2022-05-20,Technology,Phones,North,334.57,0.1,69.38,7
+365,2021-03-20,Technology,Phones,South,754.19,0.1,214.67,8
+366,2022-04-14,Office Supplies,Paper,West,258.6,0.2,21.11,7
+367,2021-12-04,Technology,Phones,South,908.43,0.3,219.16,10
+368,2021-11-25,Furniture,Tables,North,1226.26,0.1,268.96,3
+369,2021-10-26,Technology,Laptops,North,1483.01,0.3,405.2,4
+370,2021-10-15,Technology,Phones,South,1642.16,0.3,240.83,10
+371,2022-11-30,Furniture,Tables,West,1546.85,0,596.93,8
+372,2022-03-25,Office Supplies,Pens,West,1605.49,0,555.0,7
+373,2021-05-23,Office Supplies,Pens,South,1285.01,0.1,203.32,3
+374,2022-01-22,Office Supplies,Pens,South,194.23,0.3,37.34,9
+375,2022-07-11,Office Supplies,Paper,South,121.69,0.2,30.23,9
+376,2021-04-22,Office Supplies,Paper,East,1549.46,0.2,185.81,10
+377,2021-12-06,Furniture,Chairs,South,1933.15,0.3,178.33,2
+378,2022-06-07,Technology,Phones,West,1506.36,0.1,316.88,7
+379,2021-12-20,Technology,Laptops,West,1995.52,0.3,183.5,7
+380,2021-05-26,Furniture,Chairs,East,729.24,0.2,138.03,4
+381,2021-12-23,Office Supplies,Paper,South,978.52,0.3,216.86,8
+382,2021-11-04,Technology,Phones,East,137.13,0,14.64,6
+383,2022-11-25,Office Supplies,Pens,East,1610.1,0.1,369.23,9
+384,2022-07-28,Furniture,Tables,North,881.42,0.3,104.62,7
+385,2021-07-10,Office Supplies,Pens,West,1298.93,0.3,198.83,10
+386,2022-08-30,Furniture,Tables,South,887.63,0,276.43,4
+387,2022-08-15,Technology,Phones,East,248.42,0.1,46.89,4
+388,2021-09-26,Technology,Laptops,East,1357.87,0.3,245.53,6
+389,2022-09-18,Office Supplies,Paper,South,815.46,0,166.66,8
+390,2022-11-21,Office Supplies,Paper,West,1426.68,0.2,428.69,10
+391,2021-11-17,Furniture,Chairs,West,279.83,0.2,30.24,6
+392,2022-06-08,Office Supplies,Pens,West,807.5,0.1,198.0,7
+393,2022-10-13,Furniture,Tables,South,1097.89,0.1,263.3,8
+394,2021-07-11,Technology,Phones,West,663.43,0.3,132.74,6
+395,2021-05-20,Furniture,Chairs,South,430.5,0.3,117.27,9
+396,2022-02-23,Office Supplies,Pens,South,1385.16,0.3,303.53,8
+397,2021-03-26,Technology,Laptops,West,1152.53,0.1,194.62,5
+398,2021-06-22,Furniture,Tables,North,1572.44,0.3,291.6,2
+399,2021-10-02,Office Supplies,Paper,East,1561.47,0.2,328.05,1
+400,2022-07-14,Office Supplies,Pens,South,476.16,0.3,43.57,4
+401,2022-04-06,Technology,Phones,East,562.49,0,130.34,2
+402,2022-08-26,Furniture,Tables,West,1393.81,0.3,146.15,3
+403,2021-03-02,Furniture,Tables,West,1161.64,0.2,259.33,3
+404,2021-10-24,Technology,Phones,North,1166.83,0,164.15,7
+405,2022-11-03,Furniture,Chairs,North,297.43,0.1,46.82,6
+406,2022-05-17,Furniture,Tables,South,327.23,0.2,75.48,7
+407,2022-10-11,Technology,Laptops,East,1599.47,0,353.25,5
+408,2022-04-11,Office Supplies,Pens,North,1903.0,0.2,418.03,2
+409,2022-10-13,Office Supplies,Pens,South,1345.08,0.2,382.04,9
+410,2022-03-16,Technology,Laptops,West,1658.45,0.3,209.62,5
+411,2022-08-03,Technology,Phones,West,1712.22,0.2,504.42,1
+412,2022-10-04,Furniture,Chairs,East,1578.59,0.3,115.9,3
+413,2021-01-01,Technology,Laptops,South,1984.08,0.3,223.18,3
+414,2021-06-12,Office Supplies,Pens,North,1755.13,0.2,179.73,6
+415,2022-01-16,Technology,Phones,East,1345.79,0.1,139.94,5
+416,2022-03-16,Office Supplies,Pens,West,1328.2,0,133.25,8
+417,2022-08-31,Furniture,Chairs,West,491.07,0.3,35.33,6
+418,2022-12-12,Furniture,Chairs,South,307.74,0,51.91,2
+419,2021-04-16,Office Supplies,Pens,East,661.04,0.2,74.64,3
+420,2021-03-12,Office Supplies,Pens,West,1084.49,0,307.01,3
+421,2021-08-07,Technology,Laptops,North,1274.76,0.1,431.34,10
+422,2021-08-11,Office Supplies,Pens,South,219.04,0,31.1,2
+423,2021-12-26,Office Supplies,Paper,South,1928.33,0.2,520.38,4
+424,2021-09-12,Technology,Phones,East,1129.12,0.2,301.42,1
+425,2021-07-30,Office Supplies,Pens,North,1059.61,0.1,309.32,5
+426,2021-09-03,Office Supplies,Pens,East,1015.03,0,174.91,10
+427,2022-01-05,Furniture,Chairs,East,1871.15,0.1,363.84,10
+428,2022-07-14,Technology,Laptops,North,1381.74,0.3,373.67,2
+429,2021-01-15,Furniture,Chairs,East,561.26,0,211.47,7
+430,2022-10-06,Office Supplies,Paper,North,1439.63,0.3,228.83,7
+431,2021-10-12,Furniture,Chairs,West,213.01,0,53.97,4
+432,2022-02-05,Furniture,Tables,North,1193.55,0,230.42,7
+433,2021-03-01,Office Supplies,Pens,West,526.74,0.3,49.7,10
+434,2021-11-13,Office Supplies,Paper,East,1348.86,0.1,164.9,3
+435,2021-06-17,Office Supplies,Pens,East,1018.01,0.2,209.22,5
+436,2021-05-10,Furniture,Tables,North,1512.06,0.2,386.94,2
+437,2022-03-16,Furniture,Chairs,North,580.36,0,103.82,10
+438,2022-05-24,Office Supplies,Pens,East,937.64,0.2,87.49,10
+439,2021-06-11,Furniture,Tables,North,547.48,0,201.63,2
+440,2021-02-15,Furniture,Tables,East,1724.44,0,298.96,8
+441,2021-06-03,Technology,Phones,South,398.97,0,106.07,7
+442,2021-09-12,Furniture,Tables,North,861.7,0.2,125.03,2
+443,2021-05-03,Office Supplies,Paper,North,1028.98,0,158.26,9
+444,2021-03-12,Furniture,Chairs,South,1760.13,0.2,467.57,5
+445,2022-07-21,Technology,Phones,East,940.66,0.2,120.56,10
+446,2022-04-21,Technology,Phones,West,768.13,0.3,214.72,4
+447,2021-06-04,Office Supplies,Pens,West,62.44,0.3,4.68,9
+448,2021-12-10,Technology,Phones,East,52.85,0.3,13.12,5
+449,2022-06-27,Furniture,Chairs,West,1967.08,0.3,340.95,1
+450,2021-04-06,Furniture,Tables,North,135.61,0.1,45.06,9
+451,2022-04-15,Technology,Laptops,North,1950.38,0,534.86,9
+452,2021-03-18,Furniture,Tables,South,1204.2,0,277.56,3
+453,2021-09-25,Furniture,Tables,North,1709.28,0.3,371.17,6
+454,2021-10-06,Technology,Phones,South,505.54,0.1,64.08,10
+455,2021-04-19,Furniture,Chairs,West,370.53,0.3,50.37,2
+456,2021-08-01,Office Supplies,Paper,North,931.24,0.3,117.01,2
+457,2022-12-04,Furniture,Chairs,West,643.22,0,105.81,6
+458,2022-12-30,Furniture,Tables,East,534.03,0.2,93.51,1
+459,2021-09-24,Office Supplies,Pens,North,1649.17,0.1,162.27,7
+460,2021-04-07,Technology,Laptops,West,950.98,0.1,116.77,1
+461,2021-07-22,Furniture,Tables,West,1656.16,0.2,405.28,2
+462,2021-03-18,Office Supplies,Paper,North,92.51,0,14.74,8
+463,2021-12-06,Furniture,Tables,East,288.93,0.3,23.3,10
+464,2022-05-24,Technology,Laptops,South,107.49,0.3,11.43,4
+465,2021-10-14,Furniture,Tables,North,919.72,0.1,91.38,10
+466,2022-10-25,Office Supplies,Paper,West,625.46,0.3,159.73,8
+467,2021-10-14,Furniture,Chairs,East,796.88,0.3,89.16,9
+468,2022-01-27,Furniture,Tables,East,1574.74,0.2,307.27,8
+469,2022-02-02,Technology,Phones,North,577.35,0,112.97,4
+470,2021-03-01,Furniture,Chairs,North,1626.88,0.3,294.76,10
+471,2021-04-13,Furniture,Tables,West,533.32,0.1,86.38,1
+472,2021-12-30,Furniture,Tables,South,1873.65,0.1,257.72,10
+473,2022-08-29,Technology,Phones,North,105.0,0.2,32.28,10
+474,2022-05-20,Furniture,Tables,West,1107.14,0.1,246.25,2
+475,2022-09-09,Furniture,Chairs,West,476.68,0.3,33.44,10
+476,2021-12-15,Furniture,Tables,West,1448.03,0.2,136.54,3
+477,2021-04-24,Office Supplies,Paper,West,1700.64,0.2,528.11,6
+478,2022-08-24,Office Supplies,Pens,South,247.01,0.2,38.89,3
+479,2022-10-17,Office Supplies,Pens,South,1923.29,0.2,234.27,9
+480,2021-08-17,Office Supplies,Pens,North,1347.79,0.1,259.0,5
+481,2021-01-02,Furniture,Tables,West,1900.14,0.3,472.49,10
+482,2022-09-09,Furniture,Chairs,West,670.52,0.1,176.15,2
+483,2021-12-06,Technology,Laptops,West,1503.42,0.1,276.09,6
+484,2022-12-27,Furniture,Tables,East,1356.55,0.2,253.93,5
+485,2022-12-11,Furniture,Tables,West,182.2,0.2,48.99,1
+486,2022-03-25,Furniture,Chairs,South,1478.54,0.1,486.19,8
+487,2022-07-14,Technology,Laptops,North,781.93,0.3,184.25,10
+488,2021-06-16,Office Supplies,Pens,West,930.01,0,175.28,6
+489,2021-03-17,Technology,Phones,East,716.53,0.3,74.37,2
+490,2021-12-13,Office Supplies,Paper,East,1208.36,0.3,263.36,7
+491,2022-09-14,Office Supplies,Pens,West,1785.02,0.1,186.46,6
+492,2022-02-24,Furniture,Tables,West,1409.53,0.2,336.23,5
+493,2021-02-20,Furniture,Tables,East,816.16,0.3,83.46,6
+494,2021-03-31,Furniture,Chairs,South,624.37,0.3,69.89,1
+495,2022-10-16,Furniture,Tables,West,619.03,0,149.85,2
+496,2022-04-28,Technology,Phones,South,1003.74,0.2,102.25,9
+497,2022-01-15,Technology,Laptops,West,1776.71,0.2,221.7,1
+498,2022-04-22,Technology,Phones,South,563.63,0.2,121.42,3
+499,2021-03-29,Office Supplies,Pens,East,1352.88,0.3,370.48,10
+500,2022-02-01,Furniture,Tables,East,1645.89,0.3,448.97,8
+501,2022-05-03,Office Supplies,Paper,West,632.76,0.3,164.25,1
+502,2021-05-04,Office Supplies,Paper,West,1901.05,0.3,202.09,3
+503,2021-05-10,Furniture,Tables,West,133.22,0,52.82,7
+504,2022-09-02,Furniture,Tables,West,552.88,0,69.72,9
+505,2021-10-10,Technology,Laptops,North,1063.39,0,357.26,10
+506,2021-04-26,Office Supplies,Paper,South,858.16,0.1,208.52,10
+507,2022-07-31,Furniture,Chairs,East,1570.11,0.2,452.5,6
+508,2022-01-28,Technology,Laptops,North,1326.84,0.3,103.32,5
+509,2022-09-26,Technology,Laptops,West,1236.88,0.3,96.66,6
+510,2021-02-20,Office Supplies,Pens,West,1504.21,0.2,444.17,1
+511,2021-11-15,Technology,Phones,North,596.68,0.3,149.31,2
+512,2021-11-04,Furniture,Tables,West,1949.73,0.3,453.4,6
+513,2022-09-12,Technology,Phones,South,1308.83,0.1,273.89,7
+514,2022-06-13,Office Supplies,Pens,South,1741.02,0,443.23,3
+515,2022-12-28,Furniture,Chairs,North,1038.25,0.1,312.24,9
+516,2021-06-27,Office Supplies,Paper,East,425.89,0.1,134.57,4
+517,2021-02-21,Furniture,Chairs,South,1840.16,0.1,301.74,8
+518,2022-10-13,Office Supplies,Paper,South,1849.99,0,319.27,8
+519,2021-07-01,Office Supplies,Paper,South,1923.01,0.3,371.61,6
+520,2021-09-22,Technology,Phones,West,1510.47,0,280.22,7
+521,2022-08-09,Furniture,Chairs,West,1570.67,0.1,504.84,4
+522,2021-10-03,Office Supplies,Pens,West,1320.6,0,474.61,1
+523,2022-10-25,Technology,Laptops,West,387.74,0,64.8,10
+524,2022-03-10,Technology,Phones,North,1796.19,0.2,341.56,4
+525,2022-11-25,Technology,Laptops,North,1065.24,0.3,205.32,1
+526,2022-07-29,Office Supplies,Paper,North,1312.32,0.2,198.99,2
+527,2021-12-11,Technology,Laptops,East,1977.3,0.2,567.01,5
+528,2021-07-12,Office Supplies,Pens,North,342.36,0.1,113.98,10
+529,2022-11-29,Technology,Laptops,North,322.86,0,95.77,5
+530,2022-02-19,Technology,Phones,South,807.14,0,221.89,10
+531,2023-01-01,Furniture,Tables,North,483.61,0.3,125.92,6
+532,2021-06-24,Office Supplies,Paper,North,1689.25,0.1,286.03,8
+533,2022-07-27,Furniture,Tables,North,1537.69,0.1,531.53,6
+534,2021-08-16,Office Supplies,Pens,East,742.8,0.2,134.38,6
+535,2022-08-23,Technology,Phones,North,623.4,0,150.34,10
+536,2022-04-29,Office Supplies,Paper,East,1784.38,0,642.82,7
+537,2022-02-28,Office Supplies,Paper,North,155.42,0.1,19.75,4
+538,2022-08-07,Technology,Phones,South,1791.05,0.3,179.24,3
+539,2021-12-07,Furniture,Chairs,South,1280.51,0.1,223.6,1
+540,2021-10-08,Furniture,Chairs,South,458.3,0.1,112.56,3
+541,2021-05-13,Technology,Laptops,East,1248.24,0.3,193.12,8
+542,2021-02-08,Technology,Laptops,East,1090.88,0.2,336.01,6
+543,2021-01-19,Office Supplies,Paper,West,1369.66,0.1,206.94,6
+544,2021-04-16,Technology,Phones,West,797.92,0.2,95.82,1
+545,2022-04-12,Technology,Phones,North,1469.27,0.2,270.46,3
+546,2022-01-03,Technology,Phones,South,1512.73,0.1,523.38,7
+547,2021-08-18,Furniture,Chairs,West,1467.98,0.1,215.82,1
+548,2021-05-07,Office Supplies,Paper,West,764.85,0,162.57,5
+549,2022-09-01,Office Supplies,Paper,East,1989.63,0,589.07,1
+550,2022-03-03,Furniture,Chairs,East,916.41,0,242.1,8
+551,2021-07-30,Office Supplies,Pens,West,1405.62,0,267.54,2
+552,2022-09-30,Office Supplies,Pens,North,1230.99,0.1,249.99,2
+553,2021-10-17,Office Supplies,Paper,East,272.32,0,67.9,10
+554,2022-06-20,Furniture,Tables,North,1947.58,0.2,484.61,5
+555,2022-07-16,Furniture,Tables,East,1017.89,0.1,280.75,8
+556,2021-01-03,Technology,Phones,West,74.86,0,27.85,10
+557,2021-06-02,Office Supplies,Pens,South,1901.42,0,602.88,2
+558,2022-04-13,Technology,Phones,West,1977.9,0.2,283.61,1
+559,2021-02-10,Furniture,Chairs,West,1711.88,0.2,466.29,6
+560,2021-04-08,Technology,Laptops,East,1709.93,0,175.95,3
+561,2021-12-03,Office Supplies,Pens,West,747.18,0.3,202.16,5
+562,2022-01-17,Office Supplies,Pens,East,1639.18,0.1,197.91,7
+563,2022-01-30,Technology,Laptops,North,1395.31,0.3,332.05,3
+564,2022-12-14,Furniture,Chairs,West,1466.5,0.1,173.05,10
+565,2021-07-05,Technology,Laptops,South,1242.08,0.2,281.61,3
+566,2021-04-26,Technology,Laptops,South,1780.81,0.3,141.85,5
+567,2021-01-13,Office Supplies,Pens,North,1423.91,0.1,504.11,6
+568,2022-03-20,Office Supplies,Paper,East,1340.34,0.1,295.04,7
+569,2021-01-12,Furniture,Tables,East,1304.63,0.1,295.5,8
+570,2021-03-18,Technology,Laptops,West,1515.29,0.2,208.83,5
+571,2022-07-18,Furniture,Chairs,West,1304.47,0.3,315.15,2
+572,2022-08-10,Technology,Laptops,South,923.79,0.3,151.39,2
+573,2021-04-16,Technology,Laptops,East,836.71,0,223.52,1
+574,2022-06-05,Furniture,Chairs,North,1146.55,0.3,309.08,6
+575,2022-04-11,Furniture,Chairs,West,697.35,0.3,153.76,6
+576,2021-04-27,Office Supplies,Pens,South,240.0,0.1,21.74,6
+577,2022-07-15,Office Supplies,Pens,North,1067.87,0,121.45,3
+578,2022-02-24,Technology,Laptops,West,258.57,0.1,36.36,7
+579,2021-07-15,Furniture,Tables,South,1447.74,0,473.62,1
+580,2022-04-07,Office Supplies,Pens,East,941.91,0.1,329.9,1
+581,2022-07-21,Office Supplies,Paper,East,1873.85,0.3,494.92,3
+582,2021-05-12,Office Supplies,Pens,West,251.93,0.2,50.63,7
+583,2021-10-08,Technology,Laptops,West,825.85,0.2,258.42,8
+584,2022-02-27,Furniture,Tables,West,1224.92,0.2,345.84,9
+585,2021-07-25,Technology,Phones,West,458.94,0.2,112.34,3
+586,2022-05-31,Office Supplies,Pens,West,1107.86,0.2,277.5,6
+587,2022-08-20,Office Supplies,Paper,South,1162.74,0.3,246.03,9
+588,2021-01-14,Technology,Phones,South,1069.32,0,229.11,1
+589,2021-07-24,Office Supplies,Pens,East,570.61,0.1,202.88,5
+590,2022-12-09,Furniture,Tables,East,1579.5,0.1,463.54,1
+591,2021-04-15,Technology,Phones,South,1251.41,0.1,363.47,9
+592,2022-06-08,Technology,Laptops,West,1579.4,0.2,389.01,1
+593,2022-03-03,Technology,Laptops,South,1915.57,0.2,597.27,1
+594,2021-07-27,Furniture,Chairs,North,1260.1,0.3,307.84,6
+595,2021-07-18,Office Supplies,Paper,West,623.65,0.1,221.73,2
+596,2022-06-11,Furniture,Tables,West,282.74,0,64.62,9
+597,2021-06-14,Technology,Phones,West,1188.77,0.2,96.71,8
+598,2021-02-10,Office Supplies,Pens,West,349.72,0.2,78.08,10
+599,2022-05-18,Office Supplies,Pens,North,1590.32,0.2,155.04,6
+600,2021-07-08,Office Supplies,Paper,West,1065.18,0.1,215.49,9
+601,2021-12-24,Technology,Laptops,East,481.34,0.1,129.53,6
+602,2021-08-12,Technology,Phones,North,1903.1,0.3,531.52,1
+603,2022-04-02,Furniture,Chairs,North,518.68,0.1,180.97,6
+604,2022-01-31,Technology,Laptops,East,550.35,0.2,47.29,9
+605,2022-05-14,Technology,Phones,South,135.51,0.1,23.92,2
+606,2022-07-05,Furniture,Chairs,West,1089.75,0,177.88,4
+607,2021-04-17,Office Supplies,Pens,South,450.88,0.3,92.78,2
+608,2021-01-25,Office Supplies,Pens,West,945.49,0.2,84.24,2
+609,2021-09-15,Furniture,Chairs,West,1138.26,0.1,382.42,7
+610,2022-10-08,Technology,Laptops,South,838.67,0.2,70.49,2
+611,2022-10-19,Office Supplies,Paper,East,1454.56,0,475.33,10
+612,2022-01-02,Furniture,Chairs,East,1859.69,0,347.67,5
+613,2021-10-16,Office Supplies,Paper,East,1542.28,0.3,231.49,1
+614,2022-07-01,Technology,Laptops,West,478.74,0.3,113.62,9
+615,2021-11-02,Technology,Phones,West,1370.71,0.2,424.61,1
+616,2021-05-07,Office Supplies,Paper,West,131.46,0.3,24.03,2
+617,2021-12-19,Technology,Phones,West,462.89,0.1,61.78,4
+618,2021-07-18,Office Supplies,Paper,North,273.51,0,97.21,9
+619,2021-10-25,Technology,Laptops,East,1359.79,0.2,140.83,10
+620,2022-01-01,Technology,Laptops,North,300.02,0.1,35.11,10
+621,2021-11-22,Furniture,Chairs,West,997.43,0.2,227.34,5
+622,2022-08-03,Office Supplies,Pens,West,1155.38,0.2,358.26,3
+623,2021-09-10,Furniture,Chairs,North,1582.04,0.3,202.66,6
+624,2022-05-07,Furniture,Tables,North,952.55,0.2,253.33,8
+625,2021-06-29,Office Supplies,Paper,East,1308.83,0,461.41,3
+626,2021-09-27,Office Supplies,Paper,West,1480.41,0,471.11,1
+627,2022-08-19,Office Supplies,Paper,East,1178.86,0.1,394.57,9
+628,2022-11-01,Technology,Phones,South,1561.63,0.2,272.04,10
+629,2021-05-18,Office Supplies,Pens,North,956.17,0,209.44,9
+630,2022-09-21,Furniture,Chairs,West,1384.12,0.1,291.33,3
+631,2022-05-11,Office Supplies,Paper,West,1881.39,0,311.64,8
+632,2021-09-28,Furniture,Tables,East,770.4,0,231.56,9
+633,2022-04-26,Technology,Phones,South,1839.91,0,206.02,6
+634,2021-09-27,Furniture,Chairs,North,1178.33,0.1,225.88,7
+635,2022-06-14,Technology,Phones,East,540.59,0.1,124.02,6
+636,2022-05-09,Technology,Phones,South,1779.99,0,445.98,3
+637,2021-08-24,Technology,Laptops,West,200.32,0.2,26.19,3
+638,2022-09-09,Furniture,Tables,North,1448.74,0,432.21,7
+639,2022-05-09,Technology,Phones,East,1366.7,0.3,156.14,3
+640,2021-01-23,Office Supplies,Pens,South,525.16,0.1,128.58,3
+641,2022-08-10,Furniture,Tables,East,336.39,0.1,53.73,3
+642,2022-09-06,Office Supplies,Paper,South,1940.03,0,705.3,5
+643,2022-04-05,Furniture,Chairs,West,1232.73,0.3,310.81,3
+644,2022-09-08,Furniture,Tables,South,328.29,0.1,84.79,9
+645,2022-12-04,Technology,Phones,West,718.21,0.3,140.25,2
+646,2022-01-30,Furniture,Tables,South,307.82,0,49.47,9
+647,2021-06-03,Office Supplies,Pens,South,1230.75,0.1,268.9,10
+648,2022-06-29,Office Supplies,Paper,East,1031.49,0,131.99,3
+649,2022-11-26,Office Supplies,Paper,East,1316.0,0.3,194.48,1
+650,2021-08-23,Office Supplies,Pens,South,1879.92,0.3,443.3,7
+651,2022-03-12,Technology,Phones,East,311.07,0.3,71.8,2
+652,2021-09-21,Technology,Phones,South,418.59,0,114.44,2
+653,2022-01-20,Office Supplies,Paper,East,1326.36,0.2,236.25,2
+654,2022-10-30,Furniture,Tables,South,1191.47,0.2,339.8,7
+655,2022-09-19,Office Supplies,Paper,North,587.34,0.3,134.23,7
+656,2021-07-03,Office Supplies,Paper,South,771.92,0.3,95.17,5
+657,2022-12-24,Office Supplies,Paper,North,826.35,0.1,265.13,2
+658,2022-04-03,Office Supplies,Pens,West,1577.06,0.1,184.63,9
+659,2022-07-18,Technology,Laptops,North,1247.35,0,184.88,1
+660,2022-04-28,Furniture,Chairs,West,1855.43,0.3,164.22,5
+661,2021-03-23,Furniture,Tables,North,1237.61,0.3,328.52,7
+662,2022-12-30,Office Supplies,Paper,North,1928.88,0,740.14,3
+663,2022-03-26,Office Supplies,Pens,South,70.89,0.2,8.98,10
+664,2022-09-22,Office Supplies,Paper,West,380.49,0,79.11,1
+665,2021-10-10,Furniture,Tables,East,1570.36,0.2,378.02,7
+666,2022-06-15,Office Supplies,Paper,West,79.96,0,30.05,9
+667,2021-12-22,Technology,Phones,North,1928.41,0.2,259.01,4
+668,2022-08-12,Technology,Laptops,South,59.07,0.1,11.81,2
+669,2022-05-31,Office Supplies,Paper,East,623.79,0,212.64,5
+670,2022-12-12,Office Supplies,Paper,North,913.4,0.3,171.96,4
+671,2022-11-29,Technology,Phones,South,948.4,0,231.97,5
+672,2022-10-11,Furniture,Chairs,South,1587.88,0.1,433.12,4
+673,2021-12-28,Technology,Phones,South,1057.18,0,327.99,5
+674,2021-04-06,Furniture,Tables,North,827.91,0.2,81.34,3
+675,2021-12-29,Technology,Laptops,North,476.2,0.2,58.99,4
+676,2021-08-29,Technology,Laptops,West,1484.09,0.2,192.38,4
+677,2021-06-09,Furniture,Tables,North,1568.93,0,590.01,8
+678,2022-07-09,Office Supplies,Paper,East,1918.09,0.3,283.78,6
+679,2022-05-18,Technology,Laptops,North,406.6,0.2,71.35,10
+680,2022-06-23,Furniture,Tables,East,1608.58,0.3,430.02,1
+681,2022-02-08,Office Supplies,Paper,North,1727.78,0.1,368.78,2
+682,2021-11-20,Office Supplies,Pens,South,1393.96,0,421.3,7
+683,2021-11-30,Office Supplies,Paper,East,755.12,0.2,94.33,5
+684,2022-04-28,Furniture,Tables,North,1919.13,0.2,322.07,8
+685,2022-03-06,Technology,Laptops,West,1416.39,0.2,237.41,7
+686,2021-07-04,Technology,Phones,South,1164.25,0.1,360.72,5
+687,2022-01-26,Furniture,Tables,South,432.32,0.1,94.12,1
+688,2022-05-27,Furniture,Tables,South,312.22,0.2,83.82,5
+689,2022-02-12,Technology,Phones,East,243.0,0.1,25.81,5
+690,2022-04-06,Technology,Laptops,East,1501.96,0.2,250.27,9
+691,2021-12-19,Office Supplies,Paper,North,88.68,0,18.21,10
+692,2021-10-19,Furniture,Tables,West,742.46,0.3,172.77,8
+693,2022-09-21,Furniture,Chairs,South,608.72,0.1,197.49,6
+694,2021-03-15,Technology,Laptops,South,204.27,0.2,27.53,6
+695,2022-12-29,Office Supplies,Pens,North,571.57,0.3,72.57,8
+696,2022-02-28,Technology,Phones,South,376.27,0,51.74,4
+697,2022-12-19,Office Supplies,Pens,North,1511.99,0.1,204.22,2
+698,2022-04-30,Furniture,Chairs,East,1119.45,0,370.85,9
+699,2021-09-26,Furniture,Chairs,East,1255.3,0,372.13,7
+700,2021-09-11,Technology,Phones,West,1488.31,0.3,299.99,3
+701,2021-01-30,Office Supplies,Paper,West,118.55,0.2,33.96,6
+702,2022-07-08,Technology,Laptops,South,1872.97,0.3,184.25,9
+703,2022-10-09,Furniture,Tables,South,1510.38,0.3,271.76,9
+704,2022-05-09,Technology,Phones,North,1102.35,0,256.36,6
+705,2021-06-09,Technology,Laptops,North,641.97,0,164.98,3
+706,2022-04-26,Technology,Phones,North,1093.44,0.3,293.98,8
+707,2022-03-17,Technology,Phones,East,1606.03,0.1,490.04,9
+708,2022-02-26,Technology,Phones,West,1770.22,0.3,270.66,3
+709,2022-01-23,Office Supplies,Pens,South,480.16,0,108.84,4
+710,2021-10-19,Office Supplies,Paper,North,1314.49,0.2,235.42,2
+711,2021-10-24,Furniture,Tables,West,265.19,0.3,52.96,5
+712,2021-07-12,Office Supplies,Pens,South,675.26,0.1,69.82,9
+713,2021-04-15,Furniture,Chairs,West,600.12,0.1,169.9,1
+714,2021-06-04,Furniture,Tables,East,78.71,0.1,14.35,5
+715,2022-04-20,Technology,Laptops,North,1409.02,0,280.5,3
+716,2022-02-06,Furniture,Chairs,North,189.2,0.3,20.46,5
+717,2021-05-05,Technology,Laptops,East,1950.47,0.1,378.19,8
+718,2021-07-23,Furniture,Tables,East,948.63,0,243.17,4
+719,2022-11-29,Technology,Laptops,South,1924.37,0.2,227.2,1
+720,2021-09-17,Office Supplies,Pens,East,988.4,0.2,126.21,1
+721,2021-04-26,Office Supplies,Pens,West,510.13,0.3,70.47,3
+722,2022-02-10,Technology,Phones,East,1588.83,0,620.68,10
+723,2022-12-06,Office Supplies,Pens,South,1212.61,0.2,321.33,4
+724,2021-04-04,Furniture,Tables,South,1387.59,0.2,421.0,1
+725,2022-10-23,Furniture,Chairs,North,350.14,0,48.23,4
+726,2022-03-26,Technology,Phones,North,1479.72,0,453.94,6
+727,2021-09-14,Office Supplies,Pens,West,1802.39,0.3,393.63,9
+728,2021-07-14,Technology,Phones,South,1155.07,0.2,182.14,8
+729,2021-03-12,Technology,Phones,West,1085.72,0.3,143.41,5
+730,2022-04-10,Office Supplies,Paper,North,51.4,0.3,11.52,1
+731,2022-09-28,Office Supplies,Paper,North,515.63,0,153.39,9
+732,2022-06-21,Technology,Laptops,West,1382.29,0.1,353.2,6
+733,2021-04-24,Technology,Laptops,North,237.7,0,26.89,3
+734,2021-07-26,Furniture,Tables,East,258.76,0.1,30.19,10
+735,2022-11-05,Office Supplies,Pens,South,1005.32,0.2,92.27,4
+736,2021-01-14,Office Supplies,Paper,East,1863.91,0.1,497.76,2
+737,2022-01-05,Technology,Laptops,East,1138.14,0.3,276.14,1
+738,2022-06-26,Office Supplies,Paper,North,129.27,0,45.29,2
+739,2021-04-14,Furniture,Tables,East,1464.09,0.3,160.74,9
+740,2022-08-07,Office Supplies,Pens,West,1269.38,0.1,305.63,9
+741,2022-10-16,Technology,Laptops,East,1174.3,0.3,255.45,7
+742,2021-07-04,Furniture,Chairs,West,1122.43,0.2,266.92,9
+743,2021-12-27,Office Supplies,Paper,South,1809.85,0.2,511.76,7
+744,2021-11-28,Office Supplies,Pens,South,1236.41,0.1,236.48,9
+745,2022-01-04,Office Supplies,Pens,North,1925.22,0.3,522.82,1
+746,2021-10-19,Office Supplies,Pens,East,1211.74,0.1,434.07,5
+747,2021-08-16,Furniture,Chairs,North,468.9,0.2,39.95,5
+748,2021-04-07,Office Supplies,Paper,West,123.59,0.2,14.52,5
+749,2021-08-27,Technology,Phones,West,549.68,0.2,56.1,7
+750,2021-03-21,Office Supplies,Paper,West,1460.98,0.3,155.32,10
+751,2021-02-08,Furniture,Chairs,North,1475.04,0.3,127.56,1
+752,2022-03-21,Technology,Phones,North,862.22,0,311.21,4
+753,2022-10-12,Office Supplies,Pens,East,1565.97,0.3,127.42,9
+754,2022-07-07,Furniture,Chairs,North,1151.58,0.2,230.98,4
+755,2022-11-21,Furniture,Tables,East,1476.58,0.3,404.46,10
+756,2021-08-16,Office Supplies,Paper,East,892.27,0.3,90.19,6
+757,2022-08-09,Furniture,Chairs,South,1503.36,0.3,188.13,7
+758,2022-12-16,Office Supplies,Paper,South,304.23,0.1,66.88,4
+759,2022-10-30,Technology,Laptops,South,1164.09,0.1,180.93,5
+760,2022-12-03,Technology,Laptops,North,1852.07,0,247.73,7
+761,2021-12-23,Technology,Laptops,North,421.45,0.2,93.79,1
+762,2021-12-25,Technology,Phones,West,1251.63,0.3,251.41,8
+763,2021-07-24,Furniture,Chairs,West,1386.45,0.1,408.43,2
+764,2021-09-06,Furniture,Chairs,East,1900.43,0.1,616.81,5
+765,2022-12-12,Furniture,Chairs,North,1618.35,0.2,304.27,1
+766,2022-07-05,Technology,Phones,West,463.16,0.2,98.06,10
+767,2022-12-13,Office Supplies,Pens,West,1412.57,0,300.85,9
+768,2021-06-24,Furniture,Chairs,North,167.21,0.1,50.68,10
+769,2022-04-22,Technology,Phones,East,1326.78,0,159.19,5
+770,2021-04-21,Office Supplies,Pens,North,87.2,0.3,10.34,7
+771,2021-11-20,Office Supplies,Paper,East,995.09,0,155.16,9
+772,2021-02-10,Technology,Laptops,East,532.41,0.2,85.22,7
+773,2021-01-19,Office Supplies,Pens,West,726.22,0.2,120.04,5
+774,2021-03-05,Furniture,Tables,North,1270.3,0.3,326.45,1
+775,2021-08-19,Office Supplies,Paper,North,345.83,0.3,71.92,2
+776,2022-06-18,Office Supplies,Pens,South,1923.18,0.1,389.79,10
+777,2021-11-16,Furniture,Tables,South,1823.98,0.2,342.54,3
+778,2022-08-18,Furniture,Tables,West,1105.64,0.1,357.01,5
+779,2022-03-17,Office Supplies,Pens,West,1991.59,0.1,532.12,10
+780,2021-03-11,Furniture,Tables,North,1136.81,0,176.48,3
+781,2021-11-23,Office Supplies,Pens,East,1766.26,0.3,480.16,5
+782,2021-06-05,Technology,Laptops,North,1569.26,0,218.85,1
+783,2022-09-13,Office Supplies,Paper,North,1155.73,0.1,290.11,4
+784,2022-01-03,Office Supplies,Pens,East,204.98,0.3,20.12,10
+785,2021-07-08,Technology,Laptops,North,1711.65,0.3,290.14,3
+786,2021-02-03,Furniture,Tables,West,846.75,0,319.76,7
+787,2021-07-29,Furniture,Tables,West,178.97,0.3,45.12,8
+788,2022-04-14,Office Supplies,Pens,North,1780.79,0.3,276.06,1
+789,2021-11-17,Office Supplies,Paper,South,818.59,0,209.72,8
+790,2021-09-09,Technology,Laptops,East,1061.47,0.3,293.61,1
+791,2022-06-13,Office Supplies,Paper,South,1542.06,0,242.03,8
+792,2021-10-20,Technology,Laptops,North,949.63,0.3,125.19,1
+793,2022-04-20,Office Supplies,Pens,West,1668.29,0.3,148.47,9
+794,2022-08-23,Furniture,Chairs,West,1878.79,0.1,368.48,6
+795,2021-07-03,Technology,Laptops,East,934.68,0.1,306.84,2
+796,2022-12-10,Technology,Phones,North,1314.72,0.1,373.33,2
+797,2022-12-25,Furniture,Chairs,East,926.33,0.2,93.07,7
+798,2022-01-23,Office Supplies,Pens,West,1123.17,0,371.18,6
+799,2021-06-16,Office Supplies,Paper,West,1744.2,0.1,519.2,1
+800,2021-11-13,Technology,Laptops,North,1473.82,0.3,192.55,3
+801,2021-07-27,Furniture,Chairs,West,56.89,0.2,4.72,8
+802,2022-09-15,Technology,Laptops,East,1771.27,0.1,263.13,8
+803,2022-03-29,Technology,Laptops,South,204.84,0,35.52,9
+804,2021-02-20,Technology,Phones,West,410.44,0,121.48,1
+805,2022-11-15,Furniture,Tables,East,1177.28,0.2,187.74,2
+806,2022-03-03,Furniture,Chairs,East,1987.78,0.1,539.61,10
+807,2022-04-12,Office Supplies,Pens,West,1511.2,0.2,458.73,2
+808,2022-01-13,Technology,Phones,North,1800.18,0,589.62,9
+809,2022-04-28,Furniture,Chairs,North,312.36,0.2,49.67,7
+810,2022-12-14,Office Supplies,Paper,West,457.65,0,60.77,9
+811,2022-12-07,Furniture,Chairs,South,1229.32,0.2,224.34,6
+812,2021-05-13,Technology,Phones,North,1247.87,0.3,223.54,8
+813,2022-09-17,Technology,Laptops,West,503.81,0.2,158.71,1
+814,2022-04-22,Furniture,Chairs,East,1269.65,0,407.86,4
+815,2022-02-28,Office Supplies,Paper,South,138.71,0.2,29.75,4
+816,2022-12-08,Furniture,Chairs,West,599.17,0,115.24,9
+817,2021-01-07,Office Supplies,Paper,North,271.98,0.2,44.04,10
+818,2021-06-29,Office Supplies,Paper,East,428.33,0.2,129.08,8
+819,2022-10-24,Technology,Laptops,East,314.72,0.1,81.62,9
+820,2022-02-28,Technology,Phones,South,1859.19,0,651.71,5
+821,2022-07-23,Office Supplies,Paper,North,1094.98,0.1,269.25,6
+822,2021-06-02,Technology,Phones,East,596.9,0,120.42,7
+823,2022-08-08,Office Supplies,Pens,West,1231.09,0.1,308.64,5
+824,2022-12-28,Office Supplies,Pens,North,111.68,0.3,9.85,4
+825,2021-11-06,Technology,Phones,South,471.47,0.2,57.52,6
+826,2021-04-05,Furniture,Chairs,West,915.36,0,310.95,9
+827,2021-12-15,Furniture,Tables,West,1851.09,0.2,492.63,3
+828,2021-07-30,Furniture,Chairs,West,1462.91,0.3,221.48,9
+829,2021-11-15,Furniture,Chairs,East,1868.06,0,373.59,1
+830,2021-01-24,Furniture,Chairs,North,1176.24,0.2,274.45,4
+831,2021-07-17,Technology,Phones,West,608.81,0.2,161.62,2
+832,2021-06-11,Technology,Phones,West,583.59,0,226.13,9
+833,2021-07-31,Office Supplies,Paper,East,1107.93,0.2,160.71,5
+834,2021-06-25,Office Supplies,Paper,West,188.92,0.2,39.62,1
+835,2022-04-28,Furniture,Tables,East,1811.42,0,238.71,1
+836,2022-02-06,Furniture,Chairs,South,399.02,0.3,79.58,5
+837,2023-01-01,Technology,Phones,West,1528.88,0,599.48,8
+838,2021-04-06,Office Supplies,Paper,West,1635.06,0.3,147.85,5
+839,2022-04-27,Office Supplies,Pens,South,501.8,0.1,64.63,10
+840,2022-02-06,Technology,Phones,North,407.54,0.2,109.75,6
+841,2021-01-31,Technology,Laptops,South,177.46,0,36.46,8
+842,2021-12-23,Furniture,Tables,North,1228.66,0.1,279.09,7
+843,2021-11-30,Office Supplies,Pens,East,1134.49,0,383.15,9
+844,2022-08-28,Technology,Laptops,South,856.21,0.1,203.73,8
+845,2021-12-15,Technology,Laptops,East,456.06,0.3,107.04,7
+846,2022-07-12,Office Supplies,Paper,North,1403.56,0.1,377.42,2
+847,2021-04-28,Office Supplies,Pens,South,1204.72,0.3,166.65,2
+848,2021-11-12,Technology,Laptops,West,1913.97,0,534.91,10
+849,2022-05-22,Technology,Laptops,North,1307.73,0,166.29,3
+850,2021-05-31,Office Supplies,Paper,East,1338.72,0.3,243.06,7
+851,2021-07-20,Office Supplies,Paper,South,451.04,0.2,68.53,5
+852,2021-04-02,Technology,Laptops,North,1186.32,0.3,294.21,5
+853,2022-07-17,Furniture,Chairs,North,1937.4,0,602.54,6
+854,2021-02-01,Furniture,Chairs,North,508.72,0.3,102.4,7
+855,2022-03-22,Technology,Laptops,South,1112.98,0.1,242.87,4
+856,2022-01-04,Office Supplies,Paper,South,1687.93,0.1,283.38,3
+857,2021-03-15,Furniture,Tables,East,1314.36,0.1,374.28,8
+858,2021-05-20,Office Supplies,Pens,South,215.09,0.3,53.91,10
+859,2022-04-11,Technology,Laptops,West,1043.36,0.3,157.33,4
+860,2022-09-12,Furniture,Tables,South,64.49,0.3,15.98,4
+861,2022-02-25,Office Supplies,Pens,North,1856.8,0.2,163.46,1
+862,2022-12-23,Office Supplies,Paper,South,768.73,0.3,209.07,2
+863,2022-04-22,Furniture,Tables,North,1058.05,0,183.65,2
+864,2022-09-20,Office Supplies,Pens,North,152.91,0.2,31.87,1
+865,2022-06-09,Technology,Laptops,South,1816.81,0.2,328.92,5
+866,2021-02-06,Technology,Phones,West,1405.35,0.2,357.62,10
+867,2022-10-07,Technology,Phones,East,972.66,0.1,237.98,5
+868,2021-10-21,Office Supplies,Pens,East,995.28,0.1,225.44,5
+869,2022-09-23,Technology,Phones,West,597.9,0.2,49.87,2
+870,2022-08-29,Office Supplies,Paper,West,1490.99,0.3,220.15,3
+871,2022-05-12,Technology,Phones,West,402.58,0,81.67,2
+872,2022-05-23,Furniture,Tables,West,1517.88,0.3,351.81,4
+873,2022-10-15,Office Supplies,Pens,South,376.2,0.2,35.0,5
+874,2021-06-21,Furniture,Chairs,East,954.83,0.3,127.27,9
+875,2022-12-01,Furniture,Tables,South,1425.94,0.3,178.46,9
+876,2021-10-23,Technology,Laptops,East,1858.08,0.3,279.12,6
+877,2021-04-10,Office Supplies,Paper,East,1839.54,0.2,569.31,7
+878,2021-12-10,Office Supplies,Paper,North,577.14,0,101.92,10
+879,2022-11-23,Technology,Laptops,South,1510.73,0.1,348.05,3
+880,2022-11-20,Technology,Phones,East,66.53,0,6.89,2
+881,2022-12-03,Office Supplies,Paper,East,919.59,0.1,262.84,5
+882,2021-01-25,Furniture,Tables,East,1257.82,0,479.92,4
+883,2022-12-27,Office Supplies,Paper,East,1917.7,0,684.49,3
+884,2021-04-24,Technology,Laptops,West,1406.52,0.2,211.96,2
+885,2021-10-11,Office Supplies,Pens,South,1550.25,0.2,219.76,2
+886,2022-01-27,Technology,Phones,East,807.75,0,143.35,5
+887,2021-03-13,Furniture,Tables,South,1008.86,0.1,257.04,3
+888,2021-04-22,Office Supplies,Pens,South,330.55,0.3,38.3,2
+889,2021-04-16,Technology,Laptops,North,117.98,0,32.02,5
+890,2022-05-25,Technology,Laptops,East,340.27,0,129.26,7
+891,2022-12-18,Technology,Phones,West,693.17,0.3,132.17,9
+892,2022-05-05,Office Supplies,Pens,South,900.31,0,235.92,1
+893,2021-05-05,Technology,Laptops,South,1156.13,0.2,185.01,5
+894,2022-10-10,Technology,Laptops,East,1994.18,0,417.99,6
+895,2021-10-24,Furniture,Chairs,South,1313.2,0.1,314.79,7
+896,2021-11-03,Office Supplies,Pens,West,1406.97,0,406.87,6
+897,2022-10-10,Technology,Laptops,East,904.07,0.1,115.53,4
+898,2022-05-16,Furniture,Chairs,West,808.1,0.2,161.56,8
+899,2021-12-14,Furniture,Chairs,East,159.31,0,35.31,4
+900,2022-11-26,Office Supplies,Pens,South,1746.89,0.1,506.74,4
+901,2021-05-25,Furniture,Chairs,East,1003.34,0,242.17,10
+902,2022-12-20,Furniture,Chairs,West,1315.13,0,199.47,1
+903,2022-04-13,Technology,Phones,East,1241.89,0,428.87,2
+904,2022-09-02,Furniture,Chairs,South,1608.39,0.1,172.16,4
+905,2022-11-26,Technology,Laptops,North,833.92,0,327.53,10
+906,2021-11-26,Office Supplies,Paper,West,1681.03,0.1,498.16,10
+907,2021-03-06,Furniture,Tables,North,285.45,0.1,84.08,3
+908,2022-07-21,Office Supplies,Pens,North,371.76,0.1,126.37,1
+909,2022-10-10,Furniture,Tables,East,1244.26,0.1,117.23,8
+910,2021-01-08,Furniture,Chairs,East,399.86,0,124.77,10
+911,2022-12-12,Technology,Phones,South,1624.45,0.3,349.9,4
+912,2022-06-20,Furniture,Tables,North,928.32,0.1,318.68,10
+913,2022-09-03,Office Supplies,Pens,East,401.0,0.3,79.61,2
+914,2021-12-23,Office Supplies,Pens,North,866.63,0.1,122.9,9
+915,2022-07-07,Furniture,Chairs,North,1039.7,0.3,240.97,4
+916,2021-07-18,Technology,Phones,East,269.72,0.1,74.18,8
+917,2021-06-13,Technology,Laptops,West,1356.78,0,157.67,6
+918,2022-03-22,Technology,Phones,West,540.19,0.3,42.73,1
+919,2021-06-11,Office Supplies,Paper,West,1581.71,0.3,281.75,2
+920,2022-08-30,Furniture,Tables,South,1180.54,0.3,131.91,6
+921,2021-11-30,Furniture,Tables,East,494.18,0.1,142.91,4
+922,2021-03-17,Technology,Laptops,West,968.43,0.3,78.84,7
+923,2022-09-17,Furniture,Tables,West,937.23,0.3,139.11,8
+924,2022-10-10,Office Supplies,Pens,West,749.25,0.2,96.3,3
+925,2021-10-15,Furniture,Chairs,East,316.18,0.3,52.58,3
+926,2021-10-30,Technology,Phones,West,1227.09,0.1,301.98,9
+927,2022-02-26,Furniture,Tables,East,1721.1,0.3,432.1,4
+928,2022-04-19,Office Supplies,Paper,South,594.38,0.3,133.5,4
+929,2022-03-21,Furniture,Tables,North,1179.96,0.1,397.31,1
+930,2021-02-11,Technology,Laptops,East,1982.98,0,451.54,7
+931,2022-04-09,Technology,Laptops,East,1015.81,0,271.78,1
+932,2021-08-12,Office Supplies,Pens,South,308.79,0.2,42.42,2
+933,2022-11-17,Furniture,Chairs,South,644.43,0.3,161.21,10
+934,2022-04-20,Furniture,Chairs,South,1555.08,0.3,169.25,6
+935,2022-12-22,Office Supplies,Pens,South,1285.13,0,276.9,6
+936,2021-10-31,Office Supplies,Paper,East,880.51,0.2,217.96,10
+937,2022-12-03,Office Supplies,Paper,West,207.87,0.2,53.34,1
+938,2021-02-22,Office Supplies,Paper,North,266.38,0.2,51.06,1
+939,2021-06-29,Technology,Phones,North,1313.94,0,352.43,4
+940,2021-09-02,Furniture,Tables,North,1102.29,0.3,247.85,10
+941,2021-08-19,Office Supplies,Pens,West,674.9,0.2,135.56,7
+942,2021-03-06,Technology,Phones,East,776.99,0.3,133.73,9
+943,2022-12-28,Furniture,Chairs,South,1087.21,0.2,204.91,6
+944,2021-07-12,Office Supplies,Pens,East,1789.21,0.3,158.05,7
+945,2021-03-20,Furniture,Tables,North,263.26,0.2,28.14,3
+946,2021-07-29,Technology,Laptops,West,1065.34,0,200.23,9
+947,2021-12-22,Furniture,Tables,South,869.25,0,162.95,2
+948,2022-06-17,Furniture,Chairs,West,1307.11,0.3,250.35,6
+949,2022-04-14,Technology,Laptops,South,642.96,0.1,213.81,5
+950,2021-08-21,Furniture,Tables,North,994.27,0.2,263.22,1
+951,2021-10-19,Furniture,Tables,North,939.06,0.1,241.37,3
+952,2021-07-06,Office Supplies,Pens,North,1947.75,0.1,260.1,2
+953,2022-08-12,Furniture,Chairs,North,296.62,0.2,50.05,4
+954,2022-11-13,Office Supplies,Paper,East,668.04,0.2,77.16,8
+955,2022-07-01,Office Supplies,Paper,West,638.04,0,141.24,8
+956,2021-11-24,Furniture,Tables,South,354.3,0.2,83.38,5
+957,2022-08-11,Technology,Laptops,North,1350.43,0.3,190.58,2
+958,2021-02-11,Office Supplies,Pens,South,321.88,0,61.94,7
+959,2022-04-02,Office Supplies,Paper,West,746.92,0.2,69.62,4
+960,2021-10-12,Office Supplies,Paper,West,431.65,0,112.89,8
+961,2022-06-09,Office Supplies,Pens,East,819.13,0.3,112.0,10
+962,2022-11-14,Office Supplies,Paper,East,754.08,0.1,213.64,7
+963,2022-01-17,Technology,Phones,South,73.77,0.2,12.12,8
+964,2021-08-09,Office Supplies,Paper,East,1469.31,0.3,331.65,7
+965,2021-06-17,Technology,Laptops,North,1621.06,0.3,361.51,7
+966,2021-05-28,Furniture,Tables,East,455.18,0.3,126.34,9
+967,2022-08-28,Technology,Phones,East,1524.42,0,155.47,5
+968,2022-07-24,Technology,Laptops,West,951.13,0.1,136.77,7
+969,2021-02-13,Technology,Phones,South,1654.46,0.2,463.75,5
+970,2021-08-18,Technology,Laptops,South,102.34,0,14.96,5
+971,2021-05-08,Office Supplies,Pens,South,1324.94,0.2,238.65,8
+972,2021-01-30,Office Supplies,Pens,West,282.74,0.2,56.08,2
+973,2022-08-19,Office Supplies,Paper,North,986.95,0.3,249.06,8
+974,2022-01-18,Office Supplies,Pens,East,1049.43,0,371.06,3
+975,2021-05-30,Office Supplies,Paper,East,673.38,0.1,125.58,1
+976,2022-03-06,Technology,Phones,North,1290.68,0.2,118.34,5
+977,2022-06-11,Office Supplies,Paper,East,427.94,0.1,126.87,10
+978,2021-11-20,Furniture,Tables,North,1662.3,0.2,241.28,6
+979,2021-05-28,Furniture,Chairs,North,75.15,0.2,12.74,8
+980,2021-06-16,Technology,Laptops,North,249.71,0.1,56.41,4
+981,2022-03-04,Office Supplies,Paper,East,947.96,0,127.95,3
+982,2021-12-23,Furniture,Chairs,South,657.57,0.2,74.54,8
+983,2021-06-26,Office Supplies,Paper,North,1434.3,0,463.76,2
+984,2022-12-12,Furniture,Tables,West,327.6,0.1,56.68,4
+985,2022-03-12,Furniture,Tables,East,1397.1,0,172.29,8
+986,2021-07-21,Technology,Laptops,East,260.24,0,62.65,5
+987,2021-11-05,Furniture,Chairs,East,1351.79,0,452.46,10
+988,2021-07-09,Furniture,Tables,West,1357.67,0,172.74,5
+989,2021-12-27,Office Supplies,Paper,North,363.09,0.1,82.18,2
+990,2022-06-26,Furniture,Chairs,East,473.15,0.1,165.77,3
+991,2021-04-12,Office Supplies,Paper,East,1852.25,0.3,272.2,10
+992,2022-11-21,Furniture,Tables,South,1917.61,0.1,604.78,7
+993,2022-06-11,Technology,Laptops,West,493.73,0,162.15,6
+994,2021-04-23,Furniture,Chairs,South,1063.47,0.3,244.68,5
+995,2021-03-26,Office Supplies,Paper,East,689.83,0,148.61,8
+996,2022-12-05,Office Supplies,Paper,North,1953.55,0.3,229.41,7
+997,2021-07-13,Technology,Phones,South,1720.71,0.3,459.79,6
+998,2022-11-22,Furniture,Tables,East,1008.71,0,220.82,9
+999,2021-05-03,Office Supplies,Pens,East,329.57,0.3,71.17,2
+1000,2021-03-08,Office Supplies,Pens,West,759.23,0.1,137.75,10
